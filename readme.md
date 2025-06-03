@@ -2,11 +2,7 @@
 
 Name: Dhriti Anjaria
 
-Operating System: MacOS 14.3.1
-
 IDE: Visual Studio Code
-
-Time Travel Days: 0
 
 Following operations can be done by key press when running the calibration.cpp file:
 
